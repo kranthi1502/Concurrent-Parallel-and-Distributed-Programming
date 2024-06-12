@@ -60,4 +60,3 @@ cmd2:- cat < new.txt , grep o > file2.txt < file1.txt
 Contributors names and contact info
 ----------------------------------------------------------
 kranthikiran karra
-kk22l@fsu.edu
